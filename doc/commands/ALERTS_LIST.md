@@ -32,3 +32,5 @@ The response is limited to 511B in size, in case the alerts wouldn't fit in the 
 | 5      | 1    | `active` | `1` if the event represents the alert becoming active, `0` if the event marks the end of the alert. |
 | 6      | 1    | `code`   | If the Alert ID is `ALERT_FW_FAULT`, the code of the fault from the firmware, otherwise 0. |
 | 7      | ?    | `firmware_fault_name` | Iff Alert ID is `ALERT_FW_FAULT` and `firmware_fault_code` is non-zero, a [string](string.md) containing the firmware fault name.
+
+<!-- Auto-update: 2025-10-12T13:24:40.828278 -->
