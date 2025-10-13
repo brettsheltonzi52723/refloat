@@ -90,3 +90,5 @@ lefthook run clang-format-fix
 - Global constants and enum items are in `SCREAMING_CASE`.
 - Variables (local, global, struct members) and functions are in `snake_case`.
 - File names are in `snake_case.c`.
+
+<!-- Auto-update: 2025-10-13T11:43:55.093422 -->
