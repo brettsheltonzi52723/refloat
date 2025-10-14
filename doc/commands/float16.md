@@ -25,3 +25,5 @@ function float16_to_float(number) {
     return new Float32Array(new Uint32Array([r]).buffer)[0];
 }
 ```
+
+<!-- Auto-update: 2025-10-14T14:19:01.128338 -->
