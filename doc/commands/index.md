@@ -29,3 +29,5 @@ In the commands' documentation, the first two bytes with `package_interface_id` 
 - [DATA_RECORD](DATA_RECORD.md)
 - [ALERTS_LIST](ALERTS_LIST.md)
 - [ALERTS_CONTROL](ALERTS_CONTROL.md)
+
+<!-- Auto-update: 2025-10-15T14:24:21.207475 -->
